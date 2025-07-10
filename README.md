@@ -27,7 +27,13 @@
 
 ### 📊 GitHub Stats
 
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokeshOtti29&show_icons=true&theme=github_dark&hide_title=true)
+
+![](https://github-readme-stats.vercel.app/api?username=LokeshOtti29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LokeshOtti29&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshOtti29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshOtti29&layout=compact&theme=github_dark)
 
