@@ -11,7 +11,8 @@
 - 👯 Open to Collaborate On: Full-Stack Projects · AI Integrations · Open Source Contributions
 - 💬 Ask Me About: JavaScript · React.js · Node.js · MongoDB · Java · Data Structures & Algorithms
 - 📫 Reach me at: [lokeshotti01@gmail.com](mailto:lokeshotti01@gmail.com)
-- 🛠️ Resume: [View Resume](#https://drive.google.com/file/d/1tbqIv2Mgc2tejoZim9BwcMcHBHpQEgIl/view?usp=drive_link) <!-- add your actual resume link -->
+- 🛠️ Resume: [View Resume](https://drive.google.com/file/d/1tbqIv2Mgc2tejoZim9BwcMcHBHpQEgIl/view?usp=drive_link)
+ <!-- add your actual resume link -->
 
 ---
 
