@@ -25,19 +25,10 @@
 
 ---
 
-### 📊 GitHub Stats
+|                                                                               Stats                                                                              |                                                   Streak                                                   |                                                                                       Top Languages                                                                                      |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokeshOtti29\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=LokeshOtti29\&theme=dark\&hide_border=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshOtti29\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact) |
 
-
-![](https://github-readme-stats.vercel.app/api?username=LokeshOtti29&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LokeshOtti29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshOtti29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshOtti29&layout=compact&theme=github_dark)
-
----
 
 ### 📫 Let's Connect!
 
