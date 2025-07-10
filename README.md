@@ -30,7 +30,10 @@
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokeshOtti29\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false) | ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=LokeshOtti29\&theme=dark\&hide_border=false) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LokeshOtti29\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact) |
 
+### LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/lokeshOtti_2003?theme=dark)
 
+---
 ### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/lokesh-otti-8b661526a/)
