@@ -33,7 +33,7 @@
 --- 
 
 ### LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/lokeshOtti_2003?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/lokeshOtti_2003?theme=dark&amp;)
 
 ---
 ### 📫 Let's Connect!
