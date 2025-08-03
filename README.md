@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Lokesh Otti
 
--🎓 A Computer Engineering Graduate
--💻 Full-Stack Developer | Tech Enthusiast | Open Source Contributor  
+- 🎓 A Computer Engineering Graduate
+- 💻 Full-Stack Developer | Tech Enthusiast | Open Source Contributor  
 
 ---
 
